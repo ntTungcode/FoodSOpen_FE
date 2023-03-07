@@ -693,6 +693,42 @@ const Items = [
     ratings: 4,
     price: "7.5",
   },
+  {
+    id: 77,
+    itemId: "buger01",
+    imgSrc:
+      "https://firebasestorage.googleapis.com/v0/b/foodsopen-a84ae.appspot.com/o/imgs%2FTom-removebg-preview.png?alt=media&token=0106fddf-b89e-4bc0-b6f7-1578eb4da008",
+    name: "Tôm Sốt",
+    ratings: 5,
+    price: "12",
+  },
+  {
+    id: 78,
+    itemId: "buger01",
+    imgSrc:
+      "https://firebasestorage.googleapis.com/v0/b/foodsopen-a84ae.appspot.com/o/imgs%2FTrung-removebg-preview.png?alt=media&token=05e22573-aa7d-42ce-be1e-131b5d4782b4",
+    name: "Trứng Lòng Đào",
+    ratings: 5,
+    price: "12",
+  },
+  {
+    id: 79,
+    itemId: "buger01",
+    imgSrc:
+      "https://firebasestorage.googleapis.com/v0/b/foodsopen-a84ae.appspot.com/o/imgs%2FXao_Thit_Nam-removebg-preview.png?alt=media&token=4d501d5b-dcc0-4050-97c7-ffd20f5d5838",
+    name: "Thịt Xào Nấm",
+    ratings: 5,
+    price: "12",
+  },
+  {
+    id: 80,
+    itemId: "buger01",
+    imgSrc:
+      "https://firebasestorage.googleapis.com/v0/b/foodsopen-a84ae.appspot.com/o/imgs%2Fnem_ran-removebg-preview.png?alt=media&token=3d078b17-249e-451f-b9b8-050ad18fef05",
+    name: "Nem Rán",
+    ratings: 5,
+    price: "12",
+  },
 ];
 
 export { MenuItems, Items };
