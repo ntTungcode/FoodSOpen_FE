@@ -61,23 +61,23 @@ function App() {
       <Header />
 
       {/* Left menu */}
-      <div className="leftMenu">
-        <ul id="menu">
+      {/* <div className="leftMenu"> */}
+        {/* <ul id="menu"> */}
           {/* prettier-ignore */}
-          <MenuContainer link = {'#'} icon = {<HomeRounded />}  isHome/>
+          {/* <MenuContainer link = {'#'} icon = {<HomeRounded />}  isHome/> */}
           {/* prettier-ignore */}
-          <MenuContainer link = {'#'} icon = {<Chat />}  />
+          {/* <MenuContainer link = {'#'} icon = {<Chat />}  /> */}
           {/* prettier-ignore */}
-          <MenuContainer link = {'#'} icon = {<AccountBalanceWalletRounded />}  />
+          {/* <MenuContainer link = {'#'} icon = {<AccountBalanceWalletRounded />}  /> */}
           {/* prettier-ignore */}
-          <MenuContainer link = {'#'} icon = {<Favorite />} />
+          {/* <MenuContainer link = {'#'} icon = {<Favorite />} /> */}
           {/* prettier-ignore */}
-          <MenuContainer link = {'#'} icon = {<SummarizeRounded />}  />
+          {/* <MenuContainer link = {'#'} icon = {<SummarizeRounded />}  /> */}
           {/* prettier-ignore */}
-          <MenuContainer link = {'#'} icon = {<Settings />}  />
-          <div className="indicator"></div>
-        </ul>
-      </div>
+          {/* <MenuContainer link = {'#'} icon = {<Settings />}  /> */}
+          {/* <div className="indicator"></div> */}
+        {/* </ul> */}
+      {/* </div> */}
       <main>
         <div className="mainContainer">
           {/* Banner  */}

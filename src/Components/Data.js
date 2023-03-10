@@ -729,6 +729,7 @@ const Items = [
     ratings: 5,
     price: "12",
   },
+  
 ];
 
 export { MenuItems, Items };
